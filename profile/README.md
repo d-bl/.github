@@ -1,7 +1,7 @@
 Availabe for users
 ==================
 
-* GroundForge tp [assign stitches](https://d-bl.github.io/GroundForge/tiles?whiting=C6_P120&patchWidth=9&patchHeight=10&k1=ctctr&d1=ct&c1=ctct&b1=ct&a1=ctctl&d2=ct&b2=ct&k3=ctctr&c3=ctct&a3=ctctl&footside=b,-,a,-&tile=831,4-7,-5-&headside=d,-,c,-&footsideStitch=ctctl&tileStitch=ct&headsideStitch=ctctr&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2)
+* GroundForge to [assign stitches](https://d-bl.github.io/GroundForge/tiles?whiting=C6_P120&patchWidth=9&patchHeight=10&k1=ctctr&d1=ct&c1=ctct&b1=ct&a1=ctctl&d2=ct&b2=ct&k3=ctctr&c3=ctct&a3=ctctl&footside=b,-,a,-&tile=831,4-7,-5-&headside=d,-,c,-&footsideStitch=ctctl&tileStitch=ct&headsideStitch=ctctr&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2)
   to pair diagrams and generate thread diagrams to higlight threads.
 * Browse galleries of predefined patterns to explore examples or your own choice of stitches:
   * [Tesselace](https://d-bl.github.io/tesselace-to-gf/) - Algorithmically designed lace tessellations (alias pair diagrams).
