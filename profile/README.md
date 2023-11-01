@@ -13,7 +13,7 @@ Diagrams for Bobbin Lace
   * [MAE](https://d-bl.github.io/MAE-gf/) Many Attractive Examples &mdash; Community contributions.
 * Beyond GroundForge
   * Create printable grids with an [Inkscape plugin](https://d-bl.github.io/polar-grids/) or an online generator for [polar grids](https://d-bl.github.io/polar-grids/)
-  * The SVG links in the Tesselace gallery provide an alternative for some of the plugins: download for other vector based image editors.
+  * Alternative for some of the plugins: SVG links in the Tesselace gallery
 
 Info for contributors
 =====================
