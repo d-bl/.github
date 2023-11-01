@@ -1,16 +1,16 @@
 Diagrams for Bobbin Lace
 ========================
 
-* GroundForge allows to
+* GroundForge generates thread diagrams from pair diagrams (and vise versa too)
   * play with stitches in [simple nets](https://d-bl.github.io/GroundForge/nets),
     six-pair [snowflakes](https://d-bl.github.io/MAE-gf/docs/counting-snow/#choose-stitches),
     Valenciennes [variations](https://d-bl.github.io/gw-lace-to-gf/#a7-h7g11--valenciennes)
     or wobbling [Rose ground units](https://d-bl.github.io/MAE-gf/docs/droste#wobble),
   * generate mirrored and rotated [repeats](https://d-bl.github.io/GroundForge/symmetry) from your own template
-* Browse galleries with more GroundForge patterns and play with your own choice of stitches
-  * [Tesselace](https://d-bl.github.io/tesselace-to-gf/) &mdash; Algorithmically designed lace tessellations linked to GroundForge diagrams
-  * [Sampler](https://d-bl.github.io/gw-lace-to-gf/) by Gertrude Whithing &mdash; Initially used to demonstrate the power and limitations
-  * [MAE](https://d-bl.github.io/MAE-gf/) Many Attractive Examples &mdash; Community contributions.
+  * Browse galleries with more GroundForge patterns and play with your own choice of stitches
+    * [Tesselace](https://d-bl.github.io/tesselace-to-gf/) &mdash; Algorithmically designed lace tessellations linked to GroundForge diagrams
+    * [Sampler](https://d-bl.github.io/gw-lace-to-gf/) by Gertrude Whithing &mdash; Initially used to demonstrate the power and limitations
+    * [MAE](https://d-bl.github.io/MAE-gf/) Many Attractive Examples &mdash; Community contributions.
 * Beyond GroundForge
   * Create printable grids with [Inkscape plugins](https://d-bl.github.io/polar-grids/) or an online generator for [polar grids](https://d-bl.github.io/polar-grids/)
   * Alternative for some of the plugins: SVG links in the Tesselace gallery
