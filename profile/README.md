@@ -8,7 +8,7 @@ Diagrams for Bobbin Lace
     or wobbling [Rose ground units](https://d-bl.github.io/MAE-gf/docs/droste#wobble),
   * generate mirrored and rotated [repeats](https://d-bl.github.io/GroundForge/symmetry) from a single tile of your own design
 * Browse galleries of predefined GroundForge patterns and play with your own choice of stitches
-  * [Tesselace](https://d-bl.github.io/tesselace-to-gf/) &mdash; Algorithmically designed lace tessellations (alias pair diagrams).
+  * [Tesselace](https://d-bl.github.io/tesselace-to-gf/) &mdash; Algorithmically designed lace tessellations linked to GroundForge diagrams.
   * [Sampler](https://d-bl.github.io/gw-lace-to-gf/) of Gertrude Whithing &mdash; Initially used to demonstrate the power and limitations of the proof of concept.
   * [MAE](https://d-bl.github.io/MAE-gf/) Many Attractive Examples &mdash; Community contributions.
 * Beyond GroundForge
