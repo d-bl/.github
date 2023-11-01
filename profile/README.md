@@ -1,5 +1,5 @@
-Tools for bobbin lace
-=====================
+Diagrams for Bobbin Lace
+========================
 
 * GroundForge to
   * play with stitches in [simple nets](https://d-bl.github.io/GroundForge/nets),
