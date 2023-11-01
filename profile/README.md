@@ -6,7 +6,7 @@ Diagrams for Bobbin Lace
     six-pair [snowflakes](https://d-bl.github.io/MAE-gf/docs/counting-snow/#choose-stitches),
     Valenciennes [variations](https://d-bl.github.io/gw-lace-to-gf/#a7-h7g11--valenciennes)
     or wobbling [Rose ground units](https://d-bl.github.io/MAE-gf/docs/droste#wobble),
-  * generate mirrored and rotated [repeats](https://d-bl.github.io/GroundForge/symmetry) from a single tile of your own design
+  * generate mirrored and rotated [repeats](https://d-bl.github.io/GroundForge/symmetry) from your own template
 * Browse galleries with more GroundForge patterns and play with your own choice of stitches
   * [Tesselace](https://d-bl.github.io/tesselace-to-gf/) &mdash; Algorithmically designed lace tessellations linked to GroundForge diagrams.
   * [Sampler](https://d-bl.github.io/gw-lace-to-gf/) of Gertrude Whithing &mdash; Initially used to demonstrate the power and limitations of the proof of concept.
