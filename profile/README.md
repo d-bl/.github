@@ -1,5 +1,3 @@
-D-BL offers a roof to a suite of projects and applications related to bobbin lace.
-
 Availabe for users
 ==================
 
