@@ -1,7 +1,7 @@
 Diagrams for Bobbin Lace
 ========================
 
-* GroundForge to
+* GroundForge allows to
   * play with stitches in [simple nets](https://d-bl.github.io/GroundForge/nets),
     six-pair [snowflakes](https://d-bl.github.io/MAE-gf/docs/counting-snow/#choose-stitches),
     Valenciennes [variations](https://d-bl.github.io/gw-lace-to-gf/#a7-h7g11--valenciennes)
