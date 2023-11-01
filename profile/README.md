@@ -12,7 +12,7 @@ Diagrams for Bobbin Lace
   * [Sampler](https://d-bl.github.io/gw-lace-to-gf/) of Gertrude Whithing &mdash; Initially used to demonstrate the power and limitations of the proof of concept.
   * [MAE](https://d-bl.github.io/MAE-gf/) Many Attractive Examples &mdash; Community contributions.
 * Beyond GroundForge
-  * Create printable grids with an [Inkscape plugin](https://d-bl.github.io/polar-grids/) or an online generator for [polar grids](https://d-bl.github.io/polar-grids/)
+  * Create printable grids with [Inkscape plugins](https://d-bl.github.io/polar-grids/) or an online generator for [polar grids](https://d-bl.github.io/polar-grids/)
   * Alternative for some of the plugins: SVG links in the Tesselace gallery
 
 Info for contributors
