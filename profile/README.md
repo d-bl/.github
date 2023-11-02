@@ -11,6 +11,7 @@ Diagrams for Bobbin Lace
     * [Tesselace](https://d-bl.github.io/tesselace-to-gf/) &mdash; Algorithmically designed lace tessellations linked to GroundForge diagrams
     * [Sampler](https://d-bl.github.io/gw-lace-to-gf/) by Gertrude Whithing &mdash; Initially used to demonstrate the power and limitations
     * [MAE](https://d-bl.github.io/MAE-gf/) Many Attractive Examples &mdash; Community contributions.
+  * Add [components](https://d-bl.github.io/GroundForge/API) with customized forms to your own web pages.
 * Beyond GroundForge
   * Create printable grids with [Inkscape plugins](https://d-bl.github.io/polar-grids/) or an online generator for [polar grids](https://d-bl.github.io/polar-grids/)
   * Alternative for some of the plugins: SVG links in the Tesselace gallery
