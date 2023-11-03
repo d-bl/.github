@@ -11,7 +11,7 @@ A roof for open source projects related to bobbin lace
   * Generate mirrored and rotated [repeats](https://d-bl.github.io/GroundForge/symmetry) from your own template
   * Browse galleries with more patterns and play with your own choice of stitches
     * [Tesselace](https://d-bl.github.io/tesselace-to-gf/) &mdash; Algorithmically designed lace tessellations linked to GroundForge diagrams
-    * [Sampler](https://d-bl.github.io/gw-lace-to-gf/) by Gertrude Whithing &mdash; Initially used to demonstrate the power and limitations
+    * [Sampler](https://d-bl.github.io/gw-lace-to-gf/) by Gertrude Whithing &mdash; Demonstrates the power and limitations
     * [MAE](https://d-bl.github.io/MAE-gf/) Many Attractive Examples &mdash; Community contributions.
   * Add [components](https://d-bl.github.io/GroundForge/API) with customized forms to your own web pages.
 * Grids
