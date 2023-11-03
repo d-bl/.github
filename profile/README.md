@@ -15,5 +15,5 @@ A roof for projects related to bobbin lace
     * [MAE](https://d-bl.github.io/MAE-gf/) Many Attractive Examples &mdash; Community contributions.
   * Add [components](https://d-bl.github.io/GroundForge/API) with customized forms to your own web pages.
 * Beyond GroundForge
-  * Configurable printable grids with [Inkscape plugins](https://d-bl.github.io/polar-grids/) or an online generator for [polar grids](https://d-bl.github.io/polar-grids/)
+  * Configurable printable grids with [Inkscape plugins](https://d-bl.github.io/polar-grids/) or online for [polar grids](https://d-bl.github.io/polar-grids/)
   * Alternative for some of the plugins: SVG links in the Tesselace gallery
