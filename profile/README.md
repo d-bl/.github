@@ -17,3 +17,5 @@ A roof for projects related to bobbin lace
 * Beyond GroundForge
   * Configurable printable grids with [Inkscape plugins](https://d-bl.github.io/polar-grids/) or online for [polar grids](https://d-bl.github.io/polar-grids/)
   * Alternative for some of the plugins: SVG links in the Tesselace gallery
+ 
+ Licenses vary per project. We usualy have GPL, simplified BSD and CC-BY
