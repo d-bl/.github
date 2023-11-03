@@ -9,7 +9,7 @@ A roof for open source projects related to bobbin lace
     Valenciennes [variations](https://d-bl.github.io/gw-lace-to-gf/#a7-h7g11--valenciennes)
     or wobbling [Rose ground units](https://d-bl.github.io/MAE-gf/docs/droste#wobble)
   * Generate mirrored and rotated [repeats](https://d-bl.github.io/GroundForge/symmetry) from your own template
-  * Browse galleries with more patterns and play with your own choice of stitches
+  * Browse galleries with more patterns (traditional and experimental) and play with your own choice of stitches
     * [Tesselace](https://d-bl.github.io/tesselace-to-gf/) &mdash; Algorithmically designed lace tessellations linked to GroundForge diagrams
     * [Sampler](https://d-bl.github.io/gw-lace-to-gf/) by Gertrude Whithing &mdash; Demonstrates the power and limitations
     * [MAE](https://d-bl.github.io/MAE-gf/) Many Attractive Examples &mdash; Community contributions.
