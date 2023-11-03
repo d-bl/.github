@@ -15,7 +15,3 @@ Diagrams for Bobbin Lace
 * Beyond GroundForge
   * Create printable grids with [Inkscape plugins](https://d-bl.github.io/polar-grids/) or an online generator for [polar grids](https://d-bl.github.io/polar-grids/)
   * Alternative for some of the plugins: SVG links in the Tesselace gallery
-
-Licenses
-========
-The applications are available with an open source license . The documentation and galleries have a creative-commons license.
