@@ -1,8 +1,3 @@
-Diagrams for Bobbin Lace (d-bl)
-===============================
-
-A roof for open source projects related to bobbin lace
-
 * GroundForge generates thread diagrams from pair diagrams (and vise versa too)
   * Play with stitches in [simple nets](https://d-bl.github.io/GroundForge/nets),
     six-pair [snowflakes](https://d-bl.github.io/MAE-gf/docs/counting-snow/#choose-stitches),
