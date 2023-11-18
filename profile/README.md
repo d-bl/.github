@@ -10,7 +10,7 @@
     * [MAE](https://d-bl.github.io/MAE-gf/) Many Attractive Examples &mdash; Community contributions.
   * Add [components](https://d-bl.github.io/GroundForge/API) with customized forms to your own web pages.
 * Grids
-  * Configurable printable grids with [Inkscape plugins](https://d-bl.github.io/inkscape-bobbinlace/) or online [polar grids](https://d-bl.github.io/polar-grids/) in a widely supported [SVG](https://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors#Import) format
+  * Configurable printable grids with [Inkscape plugins](https://d-bl.github.io/inkscape-bobbinlace/) or online [polar grids](https://d-bl.github.io/polar-grids/) in a widely supported [SVG |&#8599;](https://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors#Import) format
   * Alternative for some of the plugins: SVG links in the Tesselace gallery
  
  **Licenses** vary per project. We usualy have GPL, simplified BSD and CC-BY
